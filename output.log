@@ -1,0 +1,12 @@
+✅ Middleware loaded: express.json()
+🚀 Server running on port 5005
+📡 Listening on http://localhost:5005/api/chat
+📥 Received request: { nickname: 'test', message: 'Hello, how are you?' }
+🔄 Sending request to OpenAI: Hello, how are you?
+❌ OpenAI API Error: { error: { code: '404', message: 'Resource not found' } }
+📥 Received request: { nickname: 'test', message: 'Hello, how are you?' }
+🔄 Sending request to OpenAI: Hello, how are you?
+❌ OpenAI API Error: { error: { code: '404', message: 'Resource not found' } }
+📥 Received request: { nickname: 'test', message: 'Hello, how are you?' }
+🔄 Sending request to OpenAI: Hello, how are you?
+❌ OpenAI API Error: { error: { code: '404', message: 'Resource not found' } }
